@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b5a4c4a-3c35-43da-a696-775bb516aeb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b5a4c4a-3c35-43da-a696-775bb516aeb0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +87,27 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified" />
     <option name="LAST_COMMIT_MESSAGE" value="modified" />
@@ -106,22 +125,26 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601652682133" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1601658044453">
+    <state x="92" y="92" width="1182" height="552" key="DiffContextDialog" timestamp="1601660920545">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601658044453" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1601658044453">
+    <state x="92" y="92" width="1182" height="552" key="DiffContextDialog/0.0.1366.736@0.0.1366.736" timestamp="1601660920545" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1601660844006">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601658044453" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1601658044453">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601660844006" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1601660844006">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601658044453" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1601658044453">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601660844006" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1601660844006">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601658044453" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601660844006" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1601660844006">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601660844006" />
     <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601652443592">
       <screen x="0" y="0" width="1366" height="736" />
     </state>

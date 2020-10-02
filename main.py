@@ -17,7 +17,7 @@ language = 'en'
 
 my_obj = gTTS(text=my_text, lang=language, slow=False)
 
-new_file_name = input("Enter your converted file name : ")
+new_file_name = input("In which name do you like to save the audio file : ")
 converted_file_name = new_file_name + ".mp3"
 my_obj.save(converted_file_name)  # Saving the converted audio in a mp3 file in the file name you entered
 
